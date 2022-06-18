@@ -1,9 +1,11 @@
-import Header from './components/Header'
+import AboutPage from './pages/AboutPage'
+import LandingPage from './pages/LandingPage'
 
 function App() {
     return (
         <>
-            <Header />
+            <LandingPage />
+            <AboutPage />
         </>
     )
 }
