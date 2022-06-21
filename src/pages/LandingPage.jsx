@@ -4,7 +4,7 @@ import Header from '../components/Header'
 
 function LandingPage() {
     return (
-        <div className="min-h-screen">
+        <div className="min-h-screen  ">
             <Header />
             <Banner />
         </div>
