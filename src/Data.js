@@ -27,38 +27,34 @@ export const languages = [
     },
     {
         Icon: FaCaretRight,
+        name: 'React Native',
+        level: '60',
+    },
+    {
+        Icon: FaCaretRight,
         name: 'NextJs',
         level: '80',
+    },
+
+    {
+        Icon: FaCaretRight,
+        name: 'Mongodb',
+        level: '80',
+    },
+    {
+        Icon: FaCaretRight,
+        name: 'Nodejs',
+        level: '80',
+    },
+    {
+        Icon: FaCaretRight,
+        name: 'Express',
+        level: '45',
     },
     {
         Icon: FaCaretRight,
         name: 'Tailwind CSS',
         level: '70',
-    },
-    // {
-    //     Icon: FaCaretRight,
-    //     name: "Redux tool-kit",
-    //     level: "80",
-    // },
-    // {
-    //     Icon: FaCaretRight,
-    //     name: "Firebase",
-    //     level: "80",
-    // },
-    // {
-    //     Icon: FaCaretRight,
-    //     name: "Styled-Components",
-    //     level: "45",
-    // },
-    {
-        Icon: FaCaretRight,
-        name: 'Git + Github',
-        level: '45',
-    },
-    {
-        Icon: FaCaretRight,
-        name: 'SEO',
-        level: '45',
     },
 ]
 // ------------------------------------------------------- tools
