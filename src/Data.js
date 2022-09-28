@@ -2,7 +2,7 @@ import { FaCaretRight } from 'react-icons/fa'
 
 export const AboutData = {
     name: 'Hi, my name is',
-    title1: 'Natnale Abebe.',
+    title1: 'Abenezer Kebede.',
     title2: ' I build amazing websites and Apps!.',
     description:
         "I’m a FullStack web developer. Focused on building products that will make people's lives better.  I love to learn new things and I am always open to learn new technologies. I'm experienced in developing products for the web, from simple landing pages to full-fledged web apps.",
@@ -13,22 +13,22 @@ export const languages = [
     {
         Icon: FaCaretRight,
         name: 'JavaScript (ES6+)',
-        level: '45',
+        level: '65',
     },
     {
         Icon: FaCaretRight,
         name: 'TypeScript',
-        level: '60',
+        level: '75',
     },
     {
         Icon: FaCaretRight,
         name: 'ReactJS',
-        level: '60',
+        level: '85',
     },
     {
         Icon: FaCaretRight,
         name: 'React Native',
-        level: '60',
+        level: '45',
     },
     {
         Icon: FaCaretRight,
@@ -54,7 +54,7 @@ export const languages = [
     {
         Icon: FaCaretRight,
         name: 'Tailwind CSS',
-        level: '70',
+        level: '90',
     },
 ]
 // ------------------------------------------------------- tools
